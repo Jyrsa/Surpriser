@@ -31,7 +31,7 @@ To set up virtualenv to try this stuff, run::
     # want
     
     # install the required packages, listed in requirements.pip
-    pip install -R requirements.pip
+    pip install -r requirements.pip
 
 When you get tired of virtualenv, you can get rid of it with a simple command::
     
