@@ -1,3 +1,12 @@
+You can clone the git repository by issuing command::
+
+    git clone git://github.com/Jyrsa/Surpriser.git
+
+In a Unix such as kosh.aalto.fi or kekkonen or any of the Niksula machines.
+
+For a not-too-long and not-too-in-depth introduction to git see
+http://www.vogella.de/articles/Git/article.html
+
 Introduction
 ============
 
@@ -7,15 +16,6 @@ the course T-106.1215 Basics of Programming part II at Aalto University.
 It demonstrates technologies used in software development with python and is
 intended to be used with python 2.7.
 
-
-Obtaining
-==========
-
-You can clone the git repository by issuing command::
-
-    git clone git://github.com/Jyrsa/Surpriser.git
-
-In a Unix such as kosh.aalto.fi or kekkonen or any of the Niksula machines.
 
 
 Setting up Virtualenv
@@ -88,4 +88,9 @@ The virtualenv scripts seem broken for me in Niksula. If your path isn't set
 correctly, you can run coverage, nosetests and pylint from
 /path/to/spanishenv/bin directly. 
 
+Extra
+=====
+
+For mad street cred make a change to this code and issue a pull-request to try
+out git and GitHub. Python is all about collaborative effort. 
 
